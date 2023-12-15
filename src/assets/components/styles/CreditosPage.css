@@ -1,0 +1,54 @@
+.image-cris{
+    width:410px;
+    height: 100px;
+    float: right;
+    padding: 10px;
+    
+}
+.arriba-titulo{
+    background-color:#6D466B;
+    width:  1050px;
+    height: 110px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+}
+.medio-cris{
+    background-color:#6D466B;
+    width:  600px;
+    height: 550px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}
+.final-cris{
+    background-color:#6D466B;
+    width:  430px;
+    height: 550px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}
+.btn-success {
+    background-color: #12355B; 
+    height: 40px;
+    margin: 10px;
+    color: white; 
+  }
+  
+  .btn-danger {
+    background-color: #12355B; 
+    height: 40px;
+    margin: 10px;
+    color: white; 
+  }
+  
+
+
+
+
+

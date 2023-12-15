@@ -1,0 +1,25 @@
+.titulo{
+  width: 790px;
+  height: 60px;
+  background-color: #6D466B;
+  align-items: center;
+  margin: 10px;
+  align-content: center;
+  margin-left: 349px;
+  border-radius: 10px;
+}
+.carousel {
+    max-width: 800px; 
+    margin: auto; 
+  }
+  
+  .carousel-inner {
+    max-height: 900px; 
+  }
+  
+  .carousel-item img {
+    object-fit: cover; 
+    max-height: 800px; 
+  }
+  
+  

@@ -1,0 +1,34 @@
+.image-guido{
+    width: 440px;
+    float: left;
+    padding: 10px;
+}
+
+.Arriba-guido{
+    background-color:#6D466B;
+    width:  1018px;
+    height: 150px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Medio-guido{
+    background-color:#6D466B;
+    width:  1018px;
+    height: 250px;
+    float:left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}
+.Lateral-guido{
+    background-color:#6D466B;
+    width:  1018px;
+    height: 190px;
+    float:left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}

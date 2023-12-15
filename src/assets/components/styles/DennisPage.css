@@ -1,0 +1,37 @@
+.image-dennis{
+    width: 500px;
+    height: 500px;
+    float: left;
+    padding: 10px;
+    
+}
+.Arriba-Dennis{
+    background-color:#6D466B;
+    width:  960px;
+    height: 110px;
+    float: right;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Medio-Dennis{
+    background-color:#6D466B;
+    width:  960px;
+    height: 350px;
+    float: right;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}
+.Lateral-Dennis{
+    background-color:#6D466B;
+    width:  1460px;
+    height: 260px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+    margin-bottom: 10px;
+}
+

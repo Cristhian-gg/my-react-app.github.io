@@ -1,0 +1,51 @@
+.image-tim{
+    width: 620px;
+    height: 400px;
+    float: left;
+    padding: 10px;
+    
+}
+.image-tim-medio{
+    width: 400px;
+    float: left;
+    padding: 10px;
+    
+}
+.image-tim-final{
+    width: 459px;
+    height: 100px;
+    float:left;
+    padding: 10px;
+    
+}
+.Arriba-tim{
+    background-color:#6D466B;
+    width:  1460px;
+    height: 110px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Medio-tim{
+    background-color:#6D466B;
+    width:  720px;
+    height: 290px;
+    float: right;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+}
+.Lateral-tim{
+    background-color:#6D466B;
+    width:  720px;
+    height: 290px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;  
+    color: aliceblue;
+    padding: 10px; 
+    margin-bottom: 10px;
+}
+
+
